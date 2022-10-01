@@ -1,0 +1,9 @@
+C:\Users\Jared\Desktop\basesdedatosforms\basesdedatosforms\obj\Debug\basesdedatosforms.vbprojAssemblyReference.cache
+C:\Users\Jared\Desktop\basesdedatosforms\basesdedatosforms\obj\Debug\basesdedatosforms.agregarespecialista.resources
+C:\Users\Jared\Desktop\basesdedatosforms\basesdedatosforms\obj\Debug\basesdedatosforms.agregarlaboratorio.resources
+C:\Users\Jared\Desktop\basesdedatosforms\basesdedatosforms\obj\Debug\basesdedatosforms.genreferenciaespecialista.resources
+C:\Users\Jared\Desktop\basesdedatosforms\basesdedatosforms\obj\Debug\basesdedatosforms.genreferencialaboratorio.resources
+C:\Users\Jared\Desktop\basesdedatosforms\basesdedatosforms\obj\Debug\basesdedatosforms.Resources.resources
+C:\Users\Jared\Desktop\basesdedatosforms\basesdedatosforms\obj\Debug\basesdedatosforms.veringresos.resources
+C:\Users\Jared\Desktop\basesdedatosforms\basesdedatosforms\obj\Debug\basesdedatosforms.vbproj.GenerateResource.cache
+C:\Users\Jared\Desktop\basesdedatosforms\basesdedatosforms\obj\Debug\basesdedatosforms.vbproj.CoreCompileInputs.cache

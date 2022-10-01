@@ -1,0 +1,96 @@
+C:\Users\eeste\Documents\Universidad\Base de datos\BD\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\eeste\Documents\Universidad\Base de datos\BD\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\eeste\Documents\Universidad\Base de datos\BD\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\eeste\Documents\Universidad\Base de datos\BD\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\eeste\Documents\Universidad\Base de datos\BD\Proyecto\Proyecto\obj\Debug\Proyecto.vbprojAssemblyReference.cache
+C:\Users\eeste\Documents\Universidad\Base de datos\BD\Proyecto\Proyecto\obj\Debug\Proyecto.Modificaranalergias.resources
+C:\Users\eeste\Documents\Universidad\Base de datos\BD\Proyecto\Proyecto\obj\Debug\Proyecto.ModificaranFamiliar.resources
+C:\Users\eeste\Documents\Universidad\Base de datos\BD\Proyecto\Proyecto\obj\Debug\Proyecto.Modificarangineco.resources
+C:\Users\eeste\Documents\Universidad\Base de datos\BD\Proyecto\Proyecto\obj\Debug\Proyecto.Modificaranmedico.resources
+C:\Users\eeste\Documents\Universidad\Base de datos\BD\Proyecto\Proyecto\obj\Debug\Proyecto.ModificaranQuirurgico.resources
+C:\Users\eeste\Documents\Universidad\Base de datos\BD\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\eeste\Documents\Universidad\Base de datos\BD\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\eeste\Documents\Universidad\Base de datos\BD\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.CoreCompileInputs.cache
+C:\Users\eeste\Documents\Universidad\Base de datos\BD\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\eeste\Documents\Universidad\Base de datos\BD\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\eeste\Documents\Universidad\Base de datos\BD\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.vbprojAssemblyReference.cache
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.AddAnGineco.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.AddAnMedi.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.AddAnQuirurg.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.AddExaFisico.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.agendarcita.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.agregarespecialista.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.agregarlaboratorio.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.genreferenciaespecialista.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.genreferencialaboratorio.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.guardarcitatratamiento.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.ingresodocumentolegal.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.ingresopaciente.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.Modificaranalergias.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.ModificaranFamiliar.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.Modificarangineco.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.Modificaranmedico.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.ModificaranQuirurgico.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.verdocumentoslegales.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.veringresos.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.CoreCompileInputs.cache
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.MDIParent1.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.CitaExpress.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.ModificarPaciente.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.AddAnAlergias.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.AddAnFamiliares.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.histocitas.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.Verregespecialistas.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.verpacientes.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.verdocumentos.resources
+C:\Users\joshu.DESKTOP-7BQFKM6\Desktop\6to Semestre\Bases de datos 1\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.buscarcitas.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.AssemblyReference.cache
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.AddAnAlergias.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.AddAnFamiliares.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.AddAnGineco.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.AddAnMedi.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.AddAnQuirurg.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.AddExaFisico.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.agendarcita.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.agregarespecialista.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.agregarlaboratorio.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.buscarcitas.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.CitaExpress.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.genreferenciaespecialista.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.genreferencialaboratorio.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.guardarcitatratamiento.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.histocitas.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.ingresodocumentolegal.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.ingresopaciente.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.MDIParent1.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.Modificaranalergias.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.ModificaranFamiliar.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.Modificarangineco.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.Modificaranmedico.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.ModificaranQuirurgico.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.ModificarPaciente.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.verdocumentos.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.verdocumentoslegales.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.veringresos.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.verpacientes.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.Verregespecialistas.resources
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.CoreCompileInputs.cache
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\Jared\Desktop\ProyectofinalBD\Proyecto\Proyecto\obj\Debug\Proyecto.pdb

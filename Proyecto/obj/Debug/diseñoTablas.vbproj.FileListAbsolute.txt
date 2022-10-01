@@ -1,0 +1,16 @@
+C:\Users\Fernando Biggs\source\repos\diseñoTablas\diseñoTablas\bin\Debug\diseñoTablas.exe.config
+C:\Users\Fernando Biggs\source\repos\diseñoTablas\diseñoTablas\bin\Debug\diseñoTablas.exe
+C:\Users\Fernando Biggs\source\repos\diseñoTablas\diseñoTablas\bin\Debug\diseñoTablas.pdb
+C:\Users\Fernando Biggs\source\repos\diseñoTablas\diseñoTablas\bin\Debug\diseñoTablas.xml
+C:\Users\Fernando Biggs\source\repos\diseñoTablas\diseñoTablas\obj\Debug\diseñoTablas.vbprojAssemblyReference.cache
+C:\Users\Fernando Biggs\source\repos\diseñoTablas\diseñoTablas\obj\Debug\diseñoTablas.AddAnGineco.resources
+C:\Users\Fernando Biggs\source\repos\diseñoTablas\diseñoTablas\obj\Debug\diseñoTablas.AddAnQuirurg.resources
+C:\Users\Fernando Biggs\source\repos\diseñoTablas\diseñoTablas\obj\Debug\diseñoTablas.AddAnAlergias.resources
+C:\Users\Fernando Biggs\source\repos\diseñoTablas\diseñoTablas\obj\Debug\diseñoTablas.AddAnMedi.resources
+C:\Users\Fernando Biggs\source\repos\diseñoTablas\diseñoTablas\obj\Debug\diseñoTablas.Form1.resources
+C:\Users\Fernando Biggs\source\repos\diseñoTablas\diseñoTablas\obj\Debug\diseñoTablas.Resources.resources
+C:\Users\Fernando Biggs\source\repos\diseñoTablas\diseñoTablas\obj\Debug\diseñoTablas.vbproj.GenerateResource.cache
+C:\Users\Fernando Biggs\source\repos\diseñoTablas\diseñoTablas\obj\Debug\diseñoTablas.vbproj.CoreCompileInputs.cache
+C:\Users\Fernando Biggs\source\repos\diseñoTablas\diseñoTablas\obj\Debug\diseñoTablas.exe
+C:\Users\Fernando Biggs\source\repos\diseñoTablas\diseñoTablas\obj\Debug\diseñoTablas.xml
+C:\Users\Fernando Biggs\source\repos\diseñoTablas\diseñoTablas\obj\Debug\diseñoTablas.pdb
