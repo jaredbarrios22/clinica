@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AC4EE835-35A5-4E3C-A877-8CADA81739E0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Proyecto.My.MyApplication</StartupObject>
+    <RootNamespace>Proyecto</RootNamespace>
+    <AssemblyName>Proyecto</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Proyecto.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Proyecto.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddAnAlergias.Designer.vb">
+      <DependentUpon>AddAnAlergias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddAnAlergias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAnFamiliares.Designer.vb">
+      <DependentUpon>AddAnFamiliares.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddAnFamiliares.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAnGineco.Designer.vb">
+      <DependentUpon>AddAnGineco.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddAnGineco.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAnMedi.Designer.vb">
+      <DependentUpon>AddAnMedi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddAnMedi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAnQuirurg.Designer.vb">
+      <DependentUpon>AddAnQuirurg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddAnQuirurg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddExaFisico.Designer.vb">
+      <DependentUpon>AddExaFisico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddExaFisico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="agendarcita.designer.vb">
+      <DependentUpon>agendarcita.vb</DependentUpon>
+    </Compile>
+    <Compile Include="agendarcita.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="agregarespecialista.Designer.vb">
+      <DependentUpon>agregarespecialista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="agregarespecialista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="agregarlaboratorio.Designer.vb">
+      <DependentUpon>agregarlaboratorio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="agregarlaboratorio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="buscarcitas.Designer.vb">
+      <DependentUpon>buscarcitas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="buscarcitas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CitaExpress.Designer.vb">
+      <DependentUpon>CitaExpress.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CitaExpress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="conexionmodulo.vb" />
+    <Compile Include="genreferenciaespecialista.Designer.vb">
+      <DependentUpon>genreferenciaespecialista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="genreferenciaespecialista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="genreferencialaboratorio.Designer.vb">
+      <DependentUpon>genreferencialaboratorio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="genreferencialaboratorio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="guardarcitatratamiento.designer.vb">
+      <DependentUpon>guardarcitatratamiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="guardarcitatratamiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="histocitas.Designer.vb">
+      <DependentUpon>histocitas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="histocitas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ingresodocumentolegal.designer.vb">
+      <DependentUpon>ingresodocumentolegal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ingresodocumentolegal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ingresopaciente.designer.vb">
+      <DependentUpon>ingresopaciente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ingresopaciente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.vb">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificaranalergias.Designer.vb">
+      <DependentUpon>Modificaranalergias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Modificaranalergias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificarangineco.Designer.vb">
+      <DependentUpon>Modificarangineco.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Modificarangineco.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificaranmedico.Designer.vb">
+      <DependentUpon>Modificaranmedico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Modificaranmedico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificaranQuirurgico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificaranQuirurgico.Designer.vb">
+      <DependentUpon>ModificaranQuirurgico.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificaranFamiliar.Designer.vb">
+      <DependentUpon>ModificaranFamiliar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ModificaranFamiliar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarPaciente.Designer.vb">
+      <DependentUpon>ModificarPaciente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarPaciente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="verdocumentos.Designer.vb">
+      <DependentUpon>verdocumentos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="verdocumentos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="verdocumentoslegales.designer.vb">
+      <DependentUpon>verdocumentoslegales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="verdocumentoslegales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="veringresos.Designer.vb">
+      <DependentUpon>veringresos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="veringresos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="verpacientes.Designer.vb">
+      <DependentUpon>verpacientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="verpacientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Verregespecialistas.Designer.vb">
+      <DependentUpon>Verregespecialistas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Verregespecialistas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddAnAlergias.resx">
+      <DependentUpon>AddAnAlergias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAnFamiliares.resx">
+      <DependentUpon>AddAnFamiliares.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAnGineco.resx">
+      <DependentUpon>AddAnGineco.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAnMedi.resx">
+      <DependentUpon>AddAnMedi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAnQuirurg.resx">
+      <DependentUpon>AddAnQuirurg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddExaFisico.resx">
+      <DependentUpon>AddExaFisico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="agendarcita.resx">
+      <DependentUpon>agendarcita.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="agregarespecialista.resx">
+      <DependentUpon>agregarespecialista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="agregarlaboratorio.resx">
+      <DependentUpon>agregarlaboratorio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="buscarcitas.resx">
+      <DependentUpon>buscarcitas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CitaExpress.resx">
+      <DependentUpon>CitaExpress.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="genreferenciaespecialista.resx">
+      <DependentUpon>genreferenciaespecialista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="genreferencialaboratorio.resx">
+      <DependentUpon>genreferencialaboratorio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="guardarcitatratamiento.resx">
+      <DependentUpon>guardarcitatratamiento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="histocitas.resx">
+      <DependentUpon>histocitas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ingresodocumentolegal.resx">
+      <DependentUpon>ingresodocumentolegal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ingresopaciente.resx">
+      <DependentUpon>ingresopaciente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificaranalergias.resx">
+      <DependentUpon>Modificaranalergias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificaranFamiliar.resx">
+      <DependentUpon>ModificaranFamiliar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificarangineco.resx">
+      <DependentUpon>Modificarangineco.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificaranmedico.resx">
+      <DependentUpon>Modificaranmedico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificaranQuirurgico.resx">
+      <DependentUpon>ModificaranQuirurgico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarPaciente.resx">
+      <DependentUpon>ModificarPaciente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="verdocumentos.resx">
+      <DependentUpon>verdocumentos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="verdocumentoslegales.resx">
+      <DependentUpon>verdocumentoslegales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="veringresos.resx">
+      <DependentUpon>veringresos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="verpacientes.resx">
+      <DependentUpon>verpacientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Verregespecialistas.resx">
+      <DependentUpon>Verregespecialistas.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
